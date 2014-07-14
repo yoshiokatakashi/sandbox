@@ -9,4 +9,5 @@ object Task {
   def create(label: String) {}
 
   def delete(id: Long) {}
+
 }
